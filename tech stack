@@ -1,0 +1,12 @@
+---
+
+ Teknoloji Yığını (Tech Stack)
+
+Bu proje, başlangıç aşamasında hız ve verimlilik odaklı en sade teknolojilerle inşa edilmiştir:
+
+- **Dil:** Python 3.10+
+- **Arayüz (Frontend):** Streamlit (Hızlı web prototipleme)
+- **Zeka (AI):** Gemini 1.5 Flash (Google AI Studio)
+- **Görüntü İşleme:** Pillow (PIL)
+- **Editör:** Cursor AI
+
