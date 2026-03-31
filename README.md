@@ -1,4 +1,4 @@
-# Eco-Styler-AI# 🌿 Eco-Styler AI 
+# 🌿 Eco-Styler AI 
 **"Gardırobunu Dijitalleştir, Dünyayı Koru, Modunu Yansıt."**
 
 Bu proje, hızlı moda tüketimine karşı duran ve yapay zeka kullanarak kullanıcıların elindeki kıyafetleri en verimli şekilde değerlendirmesini sağlayan bir stil asistanıdır.
